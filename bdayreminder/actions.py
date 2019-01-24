@@ -26,6 +26,8 @@ def runreminder(service):
     for member in birthday_members:
         services[service](member)()
 
+    print('Email sent successfully!')
+
 
 def runemailreminder():
     return runreminder('email')
