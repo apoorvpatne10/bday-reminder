@@ -1,7 +1,7 @@
 import argparse
 import sys
 import datetime
-sys.path.insert(0, "/home/apoorv/Desktop/classes_py/I_ship/bday_py/python-bdayreminder")
+sys.path.insert(0, "/home/apoorv/Desktop/test/bday-reminder")
 
 from bdayreminder.actions import (
     syncdb,
