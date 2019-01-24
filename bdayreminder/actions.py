@@ -15,7 +15,6 @@ clearperson = clearperson
 viewdata = viewdata
 
 def runreminder(service):
-    """Run reminder for the provided service"""
 
     services = {
         'email': SendEmail,
