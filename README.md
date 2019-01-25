@@ -41,7 +41,7 @@ optional arguments:
         Choices supports the following:
         syncdb              - Creates new sqlite DB with person table
         loadsampledata      - Loads sample data from db/loader.py
-        runemailreminder    - Run reminder with only email
+        runemailreminder    - Run reminder with email
         cleardata           - Clear all reminders
         clearperson         - Delete a reminder given a person\'s name
         viewdata            - View all the birthday reminders
