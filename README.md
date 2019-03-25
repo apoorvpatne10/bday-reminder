@@ -1,7 +1,7 @@
 Birthday Reminder
 =================
 
-This simple module is used to send a birthday reminder via email.
+This simple module is used to send a birthday reminder via email. My article corresponding to this sample project is available [here](https://cppsecrets.com/users/80971121111111141184611297116110101494864103109971051084699111109/Python-birthday-reminder-application-using-SMTP-and-SQLAlchemy.php).
 
 Setup:
 ------
